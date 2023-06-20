@@ -20,14 +20,14 @@ var leftVcInfo = await lib.utils.kv['@0.1.16'].get({
   defaultValue: {isTemp: false, owner: null},
 });
 
-//if the last VC they left was a temp VC
+// If the last VC they left was a temp VC
 if (leftVcInfo.isTemp) {
   var remainingChannelUsers = Object.values(voiceData).filter(function (value) {
     return (
       value.channelId == `${leftVcId}` &&
       value.userId != `${context.params.event.member.user.id}`
     );
-  }); //Filter all the users in the VC excluding the user who left (as they are not there anymore)
+  }); // Filter all the users in the VC excluding the user who left (as they are not there anymore)
   
   //if the leaving user is owner. change owner to null
   if (leftVcInfo.owner == context.params.event.member.user.id && remainingChannelUsers.length > 0) {
@@ -53,7 +53,7 @@ if (leftVcInfo.isTemp) {
   }
 }
 
-//if channel ID is provided (joining VC or already in VC)
+// If channel ID is provided (joining VC or already in VC)
 if (context.params.event.channel_id) {
   var voiceValues = Object.values(voiceData).filter(function (value) {
     return value.userId != `${context.params.event.member.user.id}`;
