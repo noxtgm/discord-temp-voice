@@ -1,8 +1,7 @@
+// voice.state.update
 const lib = require('lib')({token: process.env.STDLIB_SECRET_TOKEN});
 
 let vcHubId = process.env.HUB_ID;
-
-// voice.state.update
 
 // Retrieve voiceData from KV
 var voiceData = await lib.utils.kv['@0.1.16'].get({
