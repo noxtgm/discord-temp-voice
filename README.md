@@ -1,2 +1,2 @@
 # lrf-voice
-Discord Autocode bot music system 🎶
+DEPRECATED Discord Autocode bot music system 🎶
