@@ -11,4 +11,4 @@ Source code for the bot on my Discord server hosted on Autocode. It features the
 
 ## 🔗 Links
 
-<a href="https://buymeacoffee.com/noxtgm" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/VufN8sj.png" alt="buymecoffee page" width="40" height="40"/></a> <a href="https://next.nexusmods.com/profile/noxtgm" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/la4rbPq.png" alt="nexusmods page" width="40" height="40"/></a> <a href="https://noxtgm.itch.io" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/d9pIWxO.png" alt="itchio page" width="40" height="40"/></a>
+<a href="https://buymeacoffee.com/noxtgm" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/mDGW5Ls.png" alt="buymecoffee page" width="40" height="40"/></a> <a href="https://next.nexusmods.com/profile/noxtgm" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/la4rbPq.png" alt="nexusmods page" width="40" height="40"/></a> <a href="https://noxtgm.itch.io" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/d9pIWxO.png" alt="itchio page" width="40" height="40"/></a>
