@@ -3,7 +3,7 @@
 Source code for the bot on my Discord server hosted on Autocode. It features the creation of temporary channels when joining a lobby voice channel.
 
 > [!CAUTION]
->  This project was originally made on a bothosting website called Autocode which has shut down since April 26th, 2024.
+>  This project was originally made on a bot hosting website called Autocode which has shut down since April 26th, 2024.
 
 ## 📄 License
 
